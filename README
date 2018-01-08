@@ -2,3 +2,13 @@ SQL Scripts Collection
 
 A collection of SQL scripts, compiled mainly as a reference for future needs,
 encountered while learning the fundamentals of this language.
+
+
+
+References:
+
+Code present inside the Sample folder is taken from someplace and is not written
+by me. References are added wherever necessary.
+
+1. Sample/bank.sql : Learning SQL 2nd Edition, by Alan Beaulieu
+	https://resources.oreilly.com/examples/9780596007270/blob/master/LearningSQLExample.sql
