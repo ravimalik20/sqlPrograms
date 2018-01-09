@@ -10,5 +10,6 @@ select emp_id as Employee_ID,
 	UPPER(lname) as Lname_upper
 from employee;
 
-/* Remove duplicates */
+/* Remove duplicates. Distinct requires data to be sorted and can be time
+* consuming on large data sets */
 select distinct cust_id from account;
